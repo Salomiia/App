@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit App</string>
+    <string name="product_list_title">Product List</string>
+    <string name="product_details_title">Product Details</string>
+    <string name="price_label">Price: </string>
+    <string name="product_details">Details</string>
+</resources>
